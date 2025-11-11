@@ -1,6 +1,10 @@
-![헤더이미지](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=개발%20공부하는%20디자이너%20,%20이연수입니다&section=header&reversal=false&fontSize=30&textBg=false&fontColor=404040&fontAlign=50&fontAlignY=50&descAlign=50)
+![헤더이미지](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=개발%20공부하는%20디자이너%20,%20이연수입니다&section=header&reversal=false&fontSize=30&textBg=false&fontColor=404040&fontAlign=50&fontAlignY=50&descAlign=50&desc=Hello%20Stranger!&descSize=20&descAlignY=71)
 
 [![Hits](https://hits.sh/github.com/lee-yeonsu.svg?view=today-total&color=ffffff&labelColor=fafafa)](https://hits.sh/github.com/lee-yeonsu/)
+
+### 🚌 Top Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-yeonsu&layout=compact)
 
 ### 🦾 Skills
 
