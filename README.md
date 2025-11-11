@@ -17,4 +17,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee-yeonsu&layout=compact)
 
 [![Yeonsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-yeonsu)](<(https://github.com/lee-yeonsu)>)
-![yeonsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-yeonsu_icons=true&bg_color=00000000)
